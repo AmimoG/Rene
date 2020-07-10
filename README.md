@@ -1,5 +1,3 @@
-# one-page-website-html-css-project-for-practice
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
+# Rene-Isaac-portfolio-html-css-project-for-practice
+This the portfolio project for html css practice. 
 
-Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
-# Rene
